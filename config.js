@@ -1,0 +1,23 @@
+export const nameBand = 'LUTHER VANDROSS';
+export let nameSongs = [
+	"NEVER TOO MUCH", /*1*/
+	"DON'T YOU KNOW THAT?", /*2*/
+	"HERE AND NOW", /*3*/
+	"THE CLOSER I GET TO YOU", /*4*/
+	"DANCE WITH MY FATHER", /*5*/
+	"IF I DIDN'T KNOW BETTER", /*6*/
+	"A HOUSE IS NOT A HOME ", /*7*/
+	"ENDLESS LOVE", /*8*/
+	"POWER OF LOVE/LOVE POWER", /*9*/
+	"GIVE ME THE REASON", /*10*/
+	"ANY LOVE", /*11*/
+	"IF THIS WORLD WERE MINE", /*12*/
+	"SO AMAZING", /*13*/
+	"STOP TO LOVE", /*14*/
+	"ALWAYS AND FOREVER", /*15*/
+	"IF ONLY FOR ONE NIGHT", /*16*/
+	"SHINE", /*17*/
+	"SUPERSTAR", /*18*/
+	"CREEPIN'", /*19*/
+	"YOUR SECRET LOVE", /*20*/
+]
